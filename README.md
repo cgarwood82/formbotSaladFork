@@ -1,5 +1,5 @@
 # Salad Fork Printer
-Repo for configs for my printer.
+Repo for configs for my printer. No electrons flowing through the printer so this is a draft as a config can be. Only validation I've done so far is bench testing, but I'm expecting my limits, mins and maxes, and other macros to need to be adjusted as needed. Sharing this anyway. 
 
 ## My Customizations
 * BTT Manta E3EZ + CB2 for operations
